@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(140, 165, 185);
+}
+
+#container {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+button {
+    font-size: 1.5rem;
+    padding: 10px 15px;
+    border-radius: 8px;
+    border: none;
+    background-color: rgb(161, 204, 190);
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    margin-top: 15px;
+}
+
+button:hover {
+    background-color: rgb(124, 146, 139);
+}
+
+button:active {
+    background-color: rgb(186, 207, 200);
+}
+
+input {
+    font-size: 1.5rem;
+    border-radius: 5px;
+    border: 2px black solid;
+    margin-top: 15px;
+    font-weight: bold;
+    text-align: center;
+}
